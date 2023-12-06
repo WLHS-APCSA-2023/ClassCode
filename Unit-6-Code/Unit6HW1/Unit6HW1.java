@@ -33,6 +33,7 @@ public class Unit6HW1{
      */
     public static int AboveAverage(int[] arr){
 
+
     }
 
     /**
@@ -45,7 +46,7 @@ public class Unit6HW1{
      * of any two integers in arr or Integer.MAX_VALUE
      */
     public static int SmallestDifference(int[] arr){
-        
+
     }
 
     private static void testAboveAverage(int[] array, int expectedCount) {
